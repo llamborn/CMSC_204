@@ -11,6 +11,8 @@ Write a Java program that will check for valid passwords. The following rules mu
 
 Create a design document with pseudocode/algorithm, and screenshots.
 
+A Graphical User Interface (GUI) and JUnit Test is provided. 
+
 ### Concepts Covered:
 - ArrayList 
 - Static Methods - Read Files 
