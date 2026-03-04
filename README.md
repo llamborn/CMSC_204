@@ -6,4 +6,9 @@ Continues ideas introduced in CMSC 203, emphasizing writing larger programs and 
 
 ### Outcome:
 Upon course completion, a student will be able to: 
-- Demonstrate the implementation of abstract data types, such as list, stack, queue, priority queue, binary search tree, graph, and heap. - Describe the design and time complexity of algorithms. - Utilize event-driven programming, graphical user interface, and multi-threading. - Apply the principles of networking, exceptions, and error-handling in a Java environment. - Contrast procedural and object–oriented vs. programming concepts. - Demonstrate principles of program development and design.
+- Demonstrate the implementation of abstract data types, such as list, stack, queue, priority queue, binary search tree, graph, and heap.
+- Describe the design and time complexity of algorithms.
+- Utilize event-driven programming, graphical user interface, and multi-threading.
+- Apply the principles of networking, exceptions, and error-handling in a Java environment.
+- Contrast procedural and object–oriented vs. programming concepts.
+- Demonstrate principles of program development and design.
