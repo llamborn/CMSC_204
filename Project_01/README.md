@@ -1,4 +1,4 @@
-## Project 1: Wi-Fi Diagnosis
+## Project 1: Password Checker
 
 Create an application that will check for valid passwords. The following rules must be followed to create a valid password:
 - At least 6 characters long
