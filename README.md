@@ -21,7 +21,7 @@ Upon course completion, a student will be able to:
 - Iterators & Dictionaries 
 - Searching & Hashing 
 - Trees, Binary Trees, Balanced Search Trees
-- Sets & Maps; & Advanced I/O; Object Streams; Cloning 
+- Sets & Maps, & Advanced I/O, Object Streams, Cloning 
 - Sorting & Heaps 
 - Graphs 
 - Concurrency, Multithreading 
@@ -31,6 +31,6 @@ Upon course completion, a student will be able to:
 ### Projects:
 - Project 1: Password Checker
 - Project 2: Infix and Postfix Notation
-- Project 3: Course Database
-- Project 4: Morse Code Converter
-- Project 5: Town Graph
+- Project 3: Linked List
+- Project 4: Course Database
+- Project 5: Morse Code Converter
