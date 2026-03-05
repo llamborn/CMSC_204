@@ -10,7 +10,6 @@ Write a Java program that will check for valid passwords. The following rules mu
 - No more than 2 of the same character in a sequence.
 
 Create a design document with pseudocode/algorithm, and screenshots.
-
 A Graphical User Interface (GUI) and JUnit Test is provided. 
 
 ### Concepts Covered:
