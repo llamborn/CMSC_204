@@ -1,16 +1,14 @@
 ## Project 1: Password Checker
 
 Write a Java program that will check for valid passwords. The following rules must be followed to create a valid password:
+Write a Java program that will check for valid passwords. The following rules must be followed to create a valid password:
 - At least 6 characters long
-- 10 or more characters is a strong password, between 6 and 9 characters is a weak (but acceptable) password.
-- At least 1 numeric character.
-- At least 1 uppercase alphabetic character.
-- At least 1 lowercase alphabetic character.
-- At least 1 special character.
+- 10 or more characters is a strong password, between 6 and 9 characters is a weak (but acceptable) password. 
+- Each of the following: a numeric, uppercase, lowercase, and special character.
 - No more than 2 of the same character in a sequence.
 
-Create a design document with pseudocode/algorithm, and screenshots.
-A Graphical User Interface (GUI) and JUnit Test is provided. 
+Create a document showing test runs of the program.
+A Graphical User Interface (GUI) and JUnit Test is provided.
 
 ### Concepts Covered:
 - ArrayList 
