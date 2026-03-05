@@ -12,3 +12,25 @@ Upon course completion, a student will be able to:
 - Apply the principles of networking, exceptions, and error-handling in a Java environment.
 - Contrast procedural and object–oriented vs. programming concepts.
 - Demonstrate principles of program development and design.
+
+### Course Outline:
+- ADT Bag & Exceptions
+- Generics, Array based ADT, Linked ADT
+- Efficiency of Algorithms (Big O), Stacks & Queues 
+- Recursion & Lists
+- Iterators & Dictionaries 
+- Searching & Hashing 
+- Trees, Binary Trees, Balanced Search Trees
+- Sets & Maps; & Advanced I/O; Object Streams; Cloning 
+- Sorting & Heaps 
+- Graphs 
+- Concurrency, Multithreading 
+- Internet Networking 
+- Huffman Coding & Other Data Structures
+
+### Projects:
+- Project 1: Password Checker
+- Project 2: Infix and Postfix Notation
+- Project 3: Course Database
+- Project 4: Morse Code Converter
+- Project 5: Town Graph
